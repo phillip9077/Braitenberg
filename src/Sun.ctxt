@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Sun
+comment1.params=s\ deg
+comment1.target=Sun(java.lang.String,\ float)
+comment2.params=x\ y\ s\ deg
+comment2.target=Sun(float,\ float,\ java.lang.String,\ float)
+comment3.params=
+comment3.target=void\ draw()
+numComments=4

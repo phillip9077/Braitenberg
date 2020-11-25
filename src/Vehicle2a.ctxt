@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Vehicle2a
+comment1.params=s
+comment1.target=Vehicle2a(java.lang.String)
+comment2.params=x\ y\ s\ deg
+comment2.target=Vehicle2a(float,\ float,\ java.lang.String,\ float)
+comment3.params=other
+comment3.target=void\ update(Sun)
+comment4.params=
+comment4.target=void\ draw()
+numComments=5

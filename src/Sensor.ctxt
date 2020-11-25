@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Sensor
+comment1.params=s\ deg
+comment1.target=Sensor(java.lang.String,\ float)
+comment2.params=carX\ carY\ offX\ offY\ s\ deg
+comment2.target=Sensor(float,\ float,\ float,\ float,\ java.lang.String,\ float)
+comment3.params=other
+comment3.target=void\ update(GameObject)
+comment3.text=\r\n\ add\ the\ magnitude\ of\ the\ offset\ vector\ \r\n\ to\ the\ vehicle's\ position,\ and\ then\ rotate\ it\r\n
+comment4.params=
+comment4.target=void\ draw()
+comment5.params=other
+comment5.target=float\ getDist(Sun)
+comment6.params=other1
+comment6.target=float\ getIntensity1(Point)
+comment7.params=other2
+comment7.target=float\ getIntensity2(Point)
+numComments=8

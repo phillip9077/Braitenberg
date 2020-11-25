@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Vector
+comment1.params=x\ y
+comment1.target=Vector(float,\ float)
+comment2.params=dir
+comment2.target=Vector(float)
+comment3.params=intensity
+comment3.target=Vector\ mult(float)
+comment4.params=theta
+comment4.target=void\ rotateVec(float)
+numComments=5

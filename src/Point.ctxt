@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Point
+comment1.params=x\ y
+comment1.target=Point(float,\ float)
+comment2.params=other
+comment2.target=float\ getDist(Point)
+comment3.params=other
+comment3.target=void\ addVec(Vector)
+comment3.text=\r\n\ This\ makes\ the\ car\ move\r\n\ Vector\ +\ another\ vector\ will\ add\ distance\r\n\ thus\ making\ the\ car\ "move"\ forward\r\n
+comment4.params=x\ y
+comment4.target=void\ updateComponents(float,\ float)
+numComments=5

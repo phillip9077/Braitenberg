@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=GameObject
+comment1.params=s
+comment1.target=GameObject(java.lang.String)
+comment2.params=x\ y\ s\ deg
+comment2.target=GameObject(float,\ float,\ java.lang.String,\ float)
+comment3.params=
+comment3.target=void\ draw()
+comment4.params=
+comment4.target=void\ update()
+comment5.params=other
+comment5.target=void\ update(Sun)
+comment6.params=other
+comment6.target=void\ update(GameObject)
+comment7.params=
+comment7.target=void\ resetPos()
+numComments=8
